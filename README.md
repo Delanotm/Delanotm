@@ -1,8 +1,8 @@
 # Hi, I'm Delano 👋
 
-**Full-stack developer** based in Johannesburg, South Africa. I build production web apps and fintech systems with React, TypeScript and PostgreSQL.
+Computer Science graduate (BSc, Stellenbosch University) based in Johannesburg, South Africa. I build production web apps and fintech systems with React, TypeScript and PostgreSQL.
 
-Computer Science graduate (BSc, Stellenbosch University). I enjoy turning business rules into reliable software, from credit decisions and payments to the dashboards people use every day.
+I enjoy turning business rules into reliable software, from credit decisions and payments to the dashboards people use every day.
 
 ---
 
