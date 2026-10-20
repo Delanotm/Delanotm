@@ -13,8 +13,8 @@ Most of my code lives in private client repositories, so here's what's running i
 | Project | What it is | Stack |
 |---|---|---|
 | [**FoneFlex Apply**](https://apply.foneflex.co.za) | Device-financing platform: customer applications, credit assessment, identity verification, instalment plans and payment tracking. **Sole developer.** | React, Tailwind, Supabase, PostgreSQL, Edge Functions |
-| [**Golden Gloves Boxing**](https://goldengloves.co.za) | Website for Golden Gloves, a South African boxing brand. | React, Tailwind, Vercel |
-| [**Golden Gloves Foundation**](https://goldenglovesfoundation.co.za) | Site for the foundation's youth boxing and mentorship programmes, with CMS-managed programmes and events plus a contact/enquiry flow. | Next.js, Tailwind, Sanity CMS, Vercel |
+| [**Golden Gloves Boxing**](https://goldengloves.co.za) | Website for Golden Gloves, a South African boxing brand. | React, Tailwind, Vercel, Sanity CMS, Supabase, PostgreSQL, Edge Functions |
+| [**Golden Gloves Foundation**](https://goldenglovesfoundation.co.za) | Site for the foundation's youth boxing and mentorship programmes. | Next.js, Tailwind, Sanity CMS, Vercel |
 | [**Code4me Tickets**](https://ticket.code4me.tech) | Support and feedback ticketing portal for Code4me's client projects. | React, Supabase |
 
 ---
