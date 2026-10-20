@@ -8,7 +8,7 @@ Computer Science graduate (BSc, Stellenbosch University). I enjoy turning busine
 
 ## 🚀 Live work
 
-Most of my code lives in private client repositories, so here's what's running in production:
+Most of my code lives in private client repositories, so here's some projects running in production:
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -23,6 +23,12 @@ Most of my code lives in private client repositories, so here's what's running i
 
 - **FoneFlex**: building and running the full platform solo, including Experian credit and identity checks, Stitch payments, Shopify integration, and automated customer messaging via the WhatsApp Business API and Resend.
 - **Code4me**: one of four developers delivering client websites and web apps, with a focus on reusable components, performance and SEO.
+
+---
+
+## 📂 Personal projects
+
+Personal public repositories will be added here soon. In the meantime, see my live work above.
 
 ---
 
