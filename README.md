@@ -29,9 +29,13 @@ Most of my code lives in private client repositories, so here's what's running i
 ## 🛠️ Tech stack
 
 **Languages:** JavaScript · TypeScript · SQL · Python · Java · C · HTML/CSS
+
 **Frontend:** React · Next.js · Tailwind CSS
+
 **Backend & data:** Supabase · PostgreSQL · Edge Functions · REST APIs
+
 **Integrations:** Experian · Stitch · Shopify · WhatsApp Business API · Resend · Google Maps / OAuth
+
 **Tools:** Git & GitHub · Vercel · Sanity CMS
 
 ---
